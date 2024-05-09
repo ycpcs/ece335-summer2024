@@ -9,11 +9,13 @@ This page links to assignment descriptions.
 
 **All assignments must be submitted as a single .pdf to Canvas**, (see the [Resources](../resources.html) page for a suggested scanning app).
 
-<!--
-
 > Due Date |                Assignment                                | Solutions                                               |
 > -------- | -------------------------------------------------------- | ------------------------------------------------------- |
-> May 22    | [Assignment 1](../assign/assign01.html)                  |  |
+> May 20    | [Assignment 1](../assign/assign01.html)                  |  |
+
+
+
+<!--
 > May 31    | [Assignment 2](../assign/assign02.html)                  |  |
 > June 14   | [Assignment 3](../assign/assign03.html)                  |  |
 > June 21   | [Assignment 4](../assign/assign04.html)                  |  |

@@ -7,7 +7,7 @@ courseInfo.classPeriods = [
 	},
 	{
 		topic: new DoubleTopic("Lecture 3: Truth Tables", "lectures/lecture03.html","Lecture 4: The Conditional and Biconditional Connectives","lectures/lecture04.html"),
-		reading: "1.2 pg. 14-23, 1.5 pg. 43-53",
+		reading: "1.2 pg. 15-24, 1.5 pg. 45-55",
 	},
 	{
 		topic: new DoubleTopic("Lecture 5: Quantifiers", "lectures/lecture05.html","Assignment 1 Due","assign/assign01.html"),
