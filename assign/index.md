@@ -12,11 +12,11 @@ This page links to assignment descriptions.
 > Due Date |                Assignment                                | Solutions                                               |
 > -------- | -------------------------------------------------------- | ------------------------------------------------------- |
 > May 20    | [Assignment 1](../assign/assign01.html)                  |  |
+> May 29    | [Assignment 2](../assign/assign02.html)                  |  |
 
 
 
 <!--
-> May 31    | [Assignment 2](../assign/assign02.html)                  |  |
 > June 14   | [Assignment 3](../assign/assign03.html)                  |  |
 > June 21   | [Assignment 4](../assign/assign04.html)                  |  |
 > July 12   | [Assignment 5](../assign/assign05.html)                  |  |
