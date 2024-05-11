@@ -26,47 +26,47 @@ courseInfo.classPeriods = [
 	},
 	{
 		topic: new DoubleTopic("Lecture 8: Operations on Sets cont.","lectures/lecture08.html","Lecture 9: More Operations on Sets","lectures/lecture09.html"),
-		reading: "1.4 pg. 34-41, 2.3 pg. 73-81",
+		reading: "1.4 pg. 35-43, 2.3 pg. 78-86",
 	},
 	{
 		topic: new Topic("Lecture 9: More Operations on Sets","lectures/lecture09.html"),
-		reading: "2.3 pg. 73-81",
+		reading: "2.3 pg. 78-86",
 	},
 	{
 		topic: new TripleTopic("Lecture 10: Proof Strategies", "lectures/lecture10.html","Lecture 11: Proofs Involving Negations and Conditionals","lectures/lecture11.html", "Assignment 3 Due","assign/assign03.html"),
-		reading: "3.1 pg. 84-93, 3.2 pg. 95-106",
+		reading: "3.1 pg. 89-98, 3.2 pg. 100-111",
 	},
 	{
 		topic: new Topic("Lecture 11: Proofs Involving Negations and Conditionals cont.","lectures/lecture11.html"),
-		reading: "3.2 pg. 95-106",
+		reading: "3.2 pg. 100-111",
 	},
 	{
 		topic: new DoubleTopic("Lecture 12: Proofs Involving Quantifiers","lectures/lecture12.html", "Assignment 4 Due","assign/assign04.html"),
-		reading: "3.3 pg. 108-121",
+		reading: "3.3 pg. 113-127",
 	},
 // 4th of July Break
 	{
 		topic: new Topic("Lecture 12: Proofs Involving Quantifiers cont.","lectures/lecture12.html"),
-		reading: "3.3 pg. 108-121",
+		reading: "3.3 pg. 113-127",
 	},
 	{
 		topic: new Topic("Lecture 13: Proofs Involving Conjunctions and Biconditionals","lectures/lecture13.html"),
-		reading: "3.4 pg. 124-133",
+		reading: "3.4 pg. 130-139",
 	},
 	{
 		topic: new DoubleTopic("Lecture 14: Proofs Involving Disjunctions","lectures/lecture14.html", "Assignment 5 Due","assign/assign05.html"),
-		reading: "3.5 pg. 136-121",
+		reading: "3.5 pg. 142-150",
 	},
 	{
 		topic: new Topic("** Exam 2", "")
 	},
 	{
 		topic: new Topic("Lecture 16: Proof by Mathematical Induction","lectures/lecture16.html"),
-		reading: "6.1 pg. 260-265",
+		reading: "6.1 pg. 273-278",
 	},
 	{
 		topic: new Topic("Lecture 17: Recursion","lectures/lecture17.html"),
-		reading: "6.3 pg. 279-285",
+		reading: "6.3 pg. 293-299",
 	},
 //	{
 //		topic: new TripleTopic("Lecture 18: Relations","lectures/lecture18.html","Lecture //18 Practice Problem","handouts/lecture18/lecture18-handout.pdf","Lecture 18 Practice //Problem Solution","handouts/lecture18/lecture18-handoutSol.pdf"),
@@ -74,7 +74,7 @@ courseInfo.classPeriods = [
 //	},
 	{
 		topic: new DoubleTopic("Lecture 19: Functions","lectures/lecture19.html","Lecture 20: Function Properties","lectures/lecture20.html"),
-		reading: "5.1 pg. 226-233, 5.2-5.3 pg. 236-252",
+		reading: "5.1 pg. 229-236, 5.2-5.3 pg. 240-256",
 	},
 	{
 		topic: new DoubleTopic("Exam 3 Review", "", "Assignment 6 Due","assign/assign06.html")
