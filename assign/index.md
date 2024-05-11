@@ -14,11 +14,10 @@ This page links to assignment descriptions.
 > May 20    | [Assignment 1](../assign/assign01.html)                  |  |
 > May 29    | [Assignment 2](../assign/assign02.html)                  |  |
 > June 12   | [Assignment 3](../assign/assign03.html)                  |  |
-
+> June 19   | [Assignment 4](../assign/assign04.html)                  |  |
 
 
 <!--
-> June 14   | [Assignment 3](../assign/assign03.html)                  |  |
 > June 21   | [Assignment 4](../assign/assign04.html)                  |  |
 > July 12   | [Assignment 5](../assign/assign05.html)                  |  |
 > July 31   | [Assignment 6](../assign/assign06.html)                  |  |

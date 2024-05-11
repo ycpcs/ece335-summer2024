@@ -5,7 +5,7 @@ title: "Assignment 3"
 
 **Due: Wednesday, Jun 12th in class** Late assignments will be penalized 20% per day.
 
-Book Questions from *How To Prove It - 2nd ed.*
+Book Questions from *How To Prove It - 3rd ed.*
 ===============================================
 
 1.3.2 (pg. 34), 1.3.5 (pg. 34)

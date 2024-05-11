@@ -5,7 +5,7 @@ title: "Assignment 2"
 
 **Due: Wednesday, May 29th in class** Late assignments will be penalized 20% per day.
 
-Book Questions from *How To Prove It - 2nd ed.*
+Book Questions from *How To Prove It - 3rd ed.*
 ===============================================
 
 1.5.6 (pg. 56), Ex. 2.1.3 1-4 (pg. 62)
