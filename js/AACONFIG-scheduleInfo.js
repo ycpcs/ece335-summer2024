@@ -11,15 +11,15 @@ courseInfo.classPeriods = [
 	},
 	{
 		topic: new DoubleTopic("Lecture 5: Quantifiers", "lectures/lecture05.html","Assignment 1 Due","assign/assign01.html"),
-		reading: "2.1 pg. 55-63",
+		reading: "2.1 pg. 58-66",
 	},
 	{
 		topic: new Topic("Lecture 6: Equivalencies Involving Quantifiers", "lectures/lecture06.html"),
-		reading: "2.2 pg. 64-72",
+		reading: "2.2 pg. 68-76",
 	},
 	{
 		topic: new TripleTopic("Lecture 7: Variables and Sets", "lectures/lecture07.html","Lecture 8: Operations on Sets","lectures/lecture08.html","Assignment 2 Due","assign/assign02.html"),
-		reading: "1.3 pg. 26-33, 1.4 pg. 34-41",
+		reading: "1.3 pg. 26-33, 1.4 pg. 35-43",
 	},
 	{
 		topic: new Topic("** Exam 1", "")

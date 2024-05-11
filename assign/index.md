@@ -13,6 +13,7 @@ This page links to assignment descriptions.
 > -------- | -------------------------------------------------------- | ------------------------------------------------------- |
 > May 20    | [Assignment 1](../assign/assign01.html)                  |  |
 > May 29    | [Assignment 2](../assign/assign02.html)                  |  |
+> June 12   | [Assignment 3](../assign/assign03.html)                  |  |
 
 
 

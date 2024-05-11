@@ -18,6 +18,10 @@ Welcome to the website for ECE 335, Discrete Mathematics with Applications, at Y
 
 ## News
 * **May 13** &mdash; Welcome back!
+* **May 20** - [Assignment 1](assign/assign01.html) Due. Submit to Canvas by **May 22**
+* **May 29** - [Assignment 2](assign/assign02.html) Due. Submit to Canvas by **May 31**
+* **June 3 - EXAM I**
+* **June 12** - [Assignment 3](assign/assign03.html) Due. Submit to Canvas by **June 14**
 
 
 
