@@ -12,7 +12,7 @@ Book Questions from *How To Prove It - 3rd ed.*
 
 2.1.1 (pg. 66), 2.1.4 (pg. 67)
 
-2.2.1 a-b (pg. 76), 2.2.12 a-c (pg. 77)
+2.2.1 a-b (pg. 76), 2.2.15 a-c (pg. 77)
 
 
 *Hints:*
@@ -27,5 +27,5 @@ Book Questions from *How To Prove It - 3rd ed.*
 > 
 > 2.2.1 Start by writing the original statement symbolically. Then negate the symbolic statement and move the negation sign through the formula using the quantifier negation laws and other logical equivalencies until none of the quantifiers are negated. Then translate the final negated statement back to English.
 > 
-> 2.2.12 Consider carefully who the "!" (interpreted as "exactly one" or "only one") applies to when forming the English statement.
+> 2.2.15 Consider carefully who the "!" (interpreted as "exactly one" or "only one") applies to when forming the English statement.
 
