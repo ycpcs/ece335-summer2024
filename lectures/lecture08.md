@@ -173,7 +173,7 @@ Subsets
 > A set *A* is a *subset* of a set *B*, denoted *A* ⊆ *B*, if *all* the
 > elements of *A* are also in *B*, i.e.
  
-> *x* ∈ *A* → *x* ∈ *B*
+> ∀ *x* (*x* ∈ *A* → *x* ∈ *B*)
 
 It should be clear from the definition that
 
@@ -218,7 +218,7 @@ Then there is a direct correspondance between ∨, ∧, and ¬ with ∪, ∩, an
 >
 > *P(x)* ∧ *Q(x)* ⇔ *A* ∩ *B*
 >
-> ¬*P(x)* ⇔ *U* \\ *B*
+> ¬*P(x)* ⇔ *U* \\ *A*
 
 Thus we can use our knowledge of logical equivalences to prove similar
 relationships for sets.
