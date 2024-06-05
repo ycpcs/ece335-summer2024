@@ -37,8 +37,8 @@ courseInfo.classPeriods = [
 		reading: "3.1 pg. 89-98, 3.2 pg. 100-111",
 	},
 	{
-		topic: new Topic("Lecture 11: Proofs Involving Negations and Conditionals cont.","lectures/lecture11.html"),
-		reading: "3.2 pg. 100-111",
+		topic: new Topic("** NO CLASS"),
+		reading: "",
 	},
 	{
 		topic: new DoubleTopic("Lecture 12: Proofs Involving Quantifiers","lectures/lecture12.html", "Assignment 4 Due","assign/assign04.html"),
