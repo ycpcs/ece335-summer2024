@@ -103,8 +103,8 @@ Proof By Contradiction
 
 ### Proof By Contradiction Template
 
-> Alternatively, to prove a *negated* statement, *assume* that the
-> non-negated statement as a given and derive a *contradiction* as the
+> Alternatively, to prove a *negated* statement, .i.e. ¬*P*, *assume* that the
+> non-negated statement *P* as a given and derive a *contradiction* as the
 > goal (usually with one of the other givens). Therefore since the
 > contradiction means the assumption is invalid, the original negated
 > statement must be true. One technique in reaching a contradiction is
@@ -270,7 +270,7 @@ alternative way.
 Modus Tollens
 =============
 
-### Proof By Modus Ponens Template
+### Proof By Modus Tollens Template
 
 > Given a statement in the form *P* → *Q*, which by contrapositive is
 > equivalent to ¬*Q* → ¬*P*, if it can be proven that ¬*Q* is true (i.e.
